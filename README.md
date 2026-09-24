@@ -404,7 +404,7 @@ The final environment remained functional while reducing the number of CIS secur
 ------------------------------------------------------------------
 
 #### Repository Structure
-.
+```text 
 ├── README.md
 ├── scripts/
 │   └── cis-hardening.sh
@@ -413,7 +413,7 @@ The final environment remained functional while reducing the number of CIS secur
 │   └── post-hardening/
 └── docs/
     └── screenshots/
-    
+```
 Sensitive information, things like credentials, VM state files, and Ubuntu Pro tokens are not included in the repository.
 
 ------------------------------------------------------------------
