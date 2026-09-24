@@ -44,7 +44,7 @@ Windows Host
 ------------------------------------------------------------------
 
 ### 1. Ubuntu Server Installation: 
-<img width="819" height="596" alt="image1" src="https://github.com/user-attachments/assets/4867f118-23f6-470f-9110-2ee6ec27c242" />
+<img width="2074" height="444" alt="ubuntu_server" src="https://github.com/user-attachments/assets/4ac399f0-b8d6-4cfc-bd68-85355b7aac6a" />
 
 I created a new VirtualBox virtual machine and installed Ubuntu Server 24.04 from an ISO image
 
