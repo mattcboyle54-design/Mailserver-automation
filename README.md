@@ -382,6 +382,9 @@ A future version of the project could implement and separately test a least-priv
 ------------------------------------------------------------------
 
 ### 17. Project Results
+
+<img width="1250" height="845" alt="{C7C3A599-90E3-4392-AD8D-FB395DDFA4BD}" src="https://github.com/user-attachments/assets/68b0393e-a05b-44eb-b4ee-7dd945b67980" />
+
 This project demonstrated the complete process of:
 - Deploying an Ubuntu Server VM.
 - Configuring remote SSH administration.
